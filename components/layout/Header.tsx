@@ -32,7 +32,7 @@ const Header = () => {
           : 'bg-transparent'
       }`}
     >
-      <nav className="container-custom p-4">
+      <nav className="container-custom py-4">
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2 group">
